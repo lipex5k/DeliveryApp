@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "HelloWorld",
-    "slug": "expo-template-default",
+    "name": "Afinity",
+    "slug": "afinytyapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -13,13 +13,15 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lipexdeveloperorg.afinytyapp"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.lipexdeveloperorg.afinytyapp"
     },
     "web": {
       "bundler": "metro",
@@ -31,6 +33,18 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b984cf58-2080-4c5f-9f84-1f689fff3b36"
+      }
+    },
+    "owner": "lipexdeveloper-org",
+    "updates": {
+      "url": "https://u.expo.dev/b984cf58-2080-4c5f-9f84-1f689fff3b36"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
     }
   }
 }
