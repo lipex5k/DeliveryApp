@@ -1,6 +1,6 @@
 # App Delivery
 
-**App Delivery** é um aplicativo mobile de delivery desenvolvido com TypeScript, React Native, Tailwind CSS e Expo. 
+**App Delivery** é um aplicativo mobile de delivery desenvolvido como parte de uma aula do Sujeito Programador. O projeto utiliza TypeScript, React Native, Tailwind CSS e Expo.
 
 ## Tecnologias
 
@@ -11,7 +11,9 @@
 
 ## Descrição
 
-O **App Delivery** permite que os usuários explorem restaurantes, façam pedidos e acompanhem a entrega de forma eficiente e intuitiva. O aplicativo oferece uma experiência de usuário fluida e bem projetada, utilizando as tecnologias modernas para garantir desempenho e manutenção de alta qualidade.
+O **App Delivery** permite que os usuários explorem restaurantes. O aplicativo oferece uma experiência de usuário fluida e bem projetada, utilizando tecnologias modernas para garantir desempenho e manutenção de alta qualidade.
+
+Este projeto foi desenvolvido como parte de uma aula do Sujeito Programador - ( github.com/devfraga ) , que forneceu os fundamentos e as práticas para criar um aplicativo mobile.
 
 ---
 
