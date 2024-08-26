@@ -15,3 +15,4 @@ O **App Delivery** permite que os usuários explorem restaurantes, façam pedido
 
 ---
 
+![image](https://github.com/user-attachments/assets/95652a38-e708-4122-b700-25b0136f716e)
